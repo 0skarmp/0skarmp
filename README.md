@@ -85,9 +85,9 @@
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+        <a href="https://github.com/0skamrp/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0skarmp&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="0skarmp :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
