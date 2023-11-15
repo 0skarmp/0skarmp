@@ -1,12 +1,12 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/0skarmp/0skarmp/blob/main/resources/img/waving.gif">, I'm OSCAR</h1>
-[![](https://raw.githubusercontent.com/0skarmp/0skarmp/master/banner.gif)](https://github.com/0skarmp)
+
 <h4 align="center">a student developer at holberton school 
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://0skarmp.github.io/0skarmp/">
+  <img  src="https://github.com/1999AZZAR/0skarmp/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
