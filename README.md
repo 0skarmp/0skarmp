@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/0skarmp/0skarmp/blob/main/resources/img/waving.gif">, I'm OSCAR</h1>
-[![](https://raw.githubusercontent.com/0skarmp/schambig/master/banner.gif)](https://github.com/0skarmp)
+[![](https://raw.githubusercontent.com/0skarmp/0skarmp/master/banner.gif)](https://github.com/0skarmp)
 <h4 align="center">a student developer at holberton school 
 </div>
 
