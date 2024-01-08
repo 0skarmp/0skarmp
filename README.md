@@ -1,5 +1,6 @@
 <div align="center">
-  ![fondo](https://github.com/0skarmp/0skarmp/assets/131509024/120c2b6f-07e4-493e-9cd3-37d66fc893af)
+ ![fondo](https://github.com/0skarmp/0skarmp/assets/131509024/9de79017-88ab-41e8-b64f-d57cbe1ff39b)
+
 
 <h1 align="center">Hi <img width="35" src="https://github.com/0skarmp/0skarmp/blob/main/resources/img/waving.gif">, I'm OSCAR</h1>
 
