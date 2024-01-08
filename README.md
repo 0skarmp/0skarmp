@@ -1,4 +1,6 @@
 <div align="center">
+  ![fondo](https://github.com/0skarmp/0skarmp/assets/131509024/120c2b6f-07e4-493e-9cd3-37d66fc893af)
+
 <h1 align="center">Hi <img width="35" src="https://github.com/0skarmp/0skarmp/blob/main/resources/img/waving.gif">, I'm OSCAR</h1>
 
 <h4 align="center">a student developer at holberton school 
