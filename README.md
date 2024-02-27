@@ -64,5 +64,8 @@
 </div>  
   </div>
   <br/>
- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/0skarmp/0skarmp/blob/output/github-contribution-grid-snake.svg)
+ <p align="center">
+  <img  src="https://raw.githubusercontent.com/0skarmp/0skarmp/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
