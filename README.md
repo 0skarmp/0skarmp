@@ -10,18 +10,20 @@
     <p>### Hello! I'm Oskar Morales, a Full Stack Developer from Peru.</p>
     <p>### Portfolio: <a href="https://0skarmp.github.io/portfolio/">https://0skarmp.github.io/portfolio/</a></p>
     <br/>
-    <br/>
-    <div align="center">
-      <a href="https://www.linkedin.com/in/oskarmorales/">
+   <p> <a href="https://www.linkedin.com/in/oskarmorales/">
         <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-      </a>
-      <a href="https://www.facebook.com/oskar.morales.965580?locale=es_LA">
+      </a></p>
+     <p> <a href="https://www.facebook.com/oskar.morales.965580?locale=es_LA">
         <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-      </a>
-      <a href="https://www.instagram.com/mposkar/">
+      </a></p>
+     <p> <a href="https://www.instagram.com/mposkar/">
         <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-      </a>
-    </div>
+      </a></p>
+    <br/>
+    <br/>
+   
+      
+ 
     <br/>
     <br/>
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
