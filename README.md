@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" aling="center" />
   ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Oskar Morales a Full Stack Developer from India.
+### Hello! I'm Oskar Morales a Full Stack Developer from Peru.
 
 ### Portfolio: https://0skarmp.github.io/portfolio/
 
