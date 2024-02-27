@@ -12,7 +12,8 @@
 ### Hello! I'm Oskar Morales a Full Stack Developer from Peru.
 
 ### Portfolio: https://0skarmp.github.io/portfolio/
-
+<br/>
+<br/>
 <div >
 <a href="https://www.linkedin.com/in/oskarmorales/">
   <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,6 +24,7 @@
 <a href="https://www.instagram.com/mposkar/">
   <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+  <br/>
   <br/>
  </div>
  <ul> 
