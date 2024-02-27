@@ -4,7 +4,6 @@
     𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   </h1>
   <div>
-  
       <a href="https://www.linkedin.com/in/oskarmorales/">
         <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
       </a>
