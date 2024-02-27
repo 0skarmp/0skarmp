@@ -5,7 +5,7 @@
     <br/>
     <br/>
   </h1>
-  <div>
+  <div aling="center">
       <a href="https://www.linkedin.com/in/oskarmorales/">
         <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
       </a>
