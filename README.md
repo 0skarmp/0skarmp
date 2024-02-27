@@ -3,11 +3,13 @@
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
+  <br/>
+  <br/>
   <div>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" aling="center" />
   </div>
   <div>
-  ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Oskar Morales a Full Stack Developer from Peru.
 
