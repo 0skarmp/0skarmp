@@ -65,6 +65,6 @@
   </div>
   <br/>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/0skarmp/0skarmp/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Snake">
+    <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
 
