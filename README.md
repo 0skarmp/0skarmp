@@ -5,7 +5,7 @@
 </h1>
   <br/>
   <br/>
-  <div aling="center">
+  <div aling="center" right="20px">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
   </div>
   <div>
