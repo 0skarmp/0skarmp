@@ -2,6 +2,8 @@
   <h1>
     <img src="GIF/Earth.gif" width="24px">
     𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+    <br/>
+    <br/>
   </h1>
   <div>
       <a href="https://www.linkedin.com/in/oskarmorales/">
