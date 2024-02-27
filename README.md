@@ -6,7 +6,7 @@
   <br/>
   <br/>
   <div aling="center>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"" />
   </div>
   <div>
     
