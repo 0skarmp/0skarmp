@@ -9,9 +9,9 @@
 </div>
 
 <div>
-  ### Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  ### Hello! I'm Oskar Morales, a Full Stack Developer from Peru.
-  ### Portfolio: <a href="https://0skarmp.github.io/portfolio/">https://0skarmp.github.io/portfolio/</a>
+  ###Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  ###Hello! I'm Oskar Morales, a Full Stack Developer from Peru.
+  ###Portfolio: <a href="https://0skarmp.github.io/portfolio/">https://0skarmp.github.io/portfolio/</a>
   <br/>
   <br/>
   <div>
