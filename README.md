@@ -11,13 +11,13 @@
 ### Portfolio: https://0skarmp.github.io/portfolio/
 
 
-<a href="https://https://www.linkedin.com/in/oskarmorales/">
+<a href="https:https://www.linkedin.com/in/oskarmorales/">
   <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://https://www.facebook.com/oskar.morales.965580?locale=es_LA">
+<a href="https:https://www.facebook.com/oskar.morales.965580?locale=es_LA">
   <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://https://www.instagram.com/mposkar/">
+<a href="https:https://www.instagram.com/mposkar/">
   <img align="left" alt="Oskar Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
